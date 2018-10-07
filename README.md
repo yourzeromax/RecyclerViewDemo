@@ -1,1 +1,2 @@
 # RecyclerViewDemo
+重新上传的一份关于RecyclerView的代码，抽离部分不可公布的代码，同时更新最新的SDK28版本，Gradle版本提升，修改Gradle部分语法。
